@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-app-cv-en-francais/static/css/main.54054569.chunk.css",
+    "main.js": "/react-app-cv-en-francais/static/js/main.b736fb84.chunk.js",
+    "main.js.map": "/react-app-cv-en-francais/static/js/main.b736fb84.chunk.js.map",
+    "runtime-main.js": "/react-app-cv-en-francais/static/js/runtime-main.2ad2b5f0.js",
+    "runtime-main.js.map": "/react-app-cv-en-francais/static/js/runtime-main.2ad2b5f0.js.map",
+    "static/js/2.d5ed3033.chunk.js": "/react-app-cv-en-francais/static/js/2.d5ed3033.chunk.js",
+    "static/js/2.d5ed3033.chunk.js.map": "/react-app-cv-en-francais/static/js/2.d5ed3033.chunk.js.map",
+    "index.html": "/react-app-cv-en-francais/index.html",
+    "static/css/main.54054569.chunk.css.map": "/react-app-cv-en-francais/static/css/main.54054569.chunk.css.map",
+    "static/js/2.d5ed3033.chunk.js.LICENSE.txt": "/react-app-cv-en-francais/static/js/2.d5ed3033.chunk.js.LICENSE.txt",
+    "static/media/Aman.43a6a40b.jpeg": "/react-app-cv-en-francais/static/media/Aman.43a6a40b.jpeg",
+    "static/media/style.scss": "/react-app-cv-en-francais/static/media/startuplife.d51cb703.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ad2b5f0.js",
+    "static/js/2.d5ed3033.chunk.js",
+    "static/css/main.54054569.chunk.css",
+    "static/js/main.b736fb84.chunk.js"
+  ]
+}
